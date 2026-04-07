@@ -18,7 +18,7 @@ This component improves user experience by providing a modern, interactive way t
 
 ## 📸 Preview
 
-![Preview] ([[https://i.ibb.co.com/JwsgLZqq/video-thm.png](https://i.ibb.co.com/ycgKPYY1/Screenshot-3.png)]([https://i.ibb.co.com/JwsgLZqq/video-thm.png](https://i.ibb.co.com/ycgKPYY1/Screenshot-3.png)))
+![Preview] ([[https://i.ibb.co.com/JwsgLZqq/video-thm.png](https://i.ibb.co.com/ycgKPYY1/Screenshot-3.png)]
 
 ---
 
